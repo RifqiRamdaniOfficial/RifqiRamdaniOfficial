@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 ![My Skills](https://skillicons.dev/icons?i=git,html,css,js,php,laravel,bootstrap,ps,windows&theme=light)](https://skillicons.dev)
 
 ##### Connect With Me
-![https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white](https://www.instagram.com/ramaripqi)
+[**My**](https://www.instagram.com/ramaripqi)![instagram][https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) 
 ![https://www.facebook.com/ramax104](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
