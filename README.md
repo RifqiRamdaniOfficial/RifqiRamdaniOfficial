@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning Laravel [**Laravel**](https://laravel.com) Framework
+
+##### Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,php,laravel" />
+  </a>
+</p>
